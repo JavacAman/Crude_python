@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "seismic-diorama-425606-m7",
+    "private_key_id": "9bcf33293c9886be5bf5f3af0c68f10ea4770d3b",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDXcTvIccGeY/qB\nmA1/iT4bTmt9bqVbRBjaVrj2uqDL0NEOXLss7aR3FKmKTX6wt7fRXcL7wuV88u4c\nEjr6KyTsdrYFLLrSl2Em61FsHiFNxS/NB1QY3+bmDc2lm8K1I7uXq+14fBiuawSM\nSaGzv92daGuDwY63Sq4ZhO28/IYt8zEMW0d7Dtbu5T5j0KbkWI6uLJIzTTI4+ppl\nL+DI8K20TdS/sdmEbgy00cCDvUwDGVLiTQzTZ+fDw5fpJf0Ndk+/53DU5fIvYlKo\niwORJzToc2eW2qwwkkaLuc/bIgo47N9c3fkzLqwVvn5opufCcPjfeul0A6arJtwB\naPcT3DT/AgMBAAECggEAKl7ZrBU7SARPqxcVaIS8UzB8EWImYSmmXaJ6pAOWRh9e\nTh3MrgxasRS+NzYAeY7YNvPiuhLdgVJho+Gt+a9shpjeOWxPncUp1Taof8P5NstW\nGFOdpXq7dXk3fZ+BjpBlf3HPtUdqrzra3SBKDgjo8+Eqa/IwODoWvWwYOXfMh9KU\n7Uk6EF+IbibiNjrtnCKz5enmaCBa54xyUKpckeeHVevsr93tDqKNIH76/YLeL31t\n9l3RhKtfXMGLqiXmIr56pDbYtQwR478qiLioQ9QYEtQwA16P/sieGhNanMLuj8hK\nlOzJc6QyDase5uNcaFmRAFYBPFPSKzDRkjiRRrWhiQKBgQDsf1mJ1mnY4KjZpiqs\ng3Ba09lfQD8u+cl+zONMpygjO7qtjJTTUD2XJ7vxwSe+BehrHYTOpfBnD1D453al\nWkaKGebuuxBVLq/mVhfDiUMukxdNp0frLUV8LLDzK+hHttVabYf/MCcQFgtzL3UZ\nXP0+/cNy43ZQ7NOWEsMHhfgeMwKBgQDpNWSWJVFgsjCMcUbNkZ8/xxAeeKaNK3ZF\nBkz9tmhxu+bHjIT7oE4tZFORiTS74fzl3bGA2CRreE7IKqEEOjw82IVdsjgmQIgw\n7+5vEvJY3HSI2n0EjmueUtmoEWl7ROuOwyLD4TEqoTuVQ3AlmIR7iYKFE70h9pgj\nnC3IAPPqBQKBgApyabMkDJLvAaZzp6jtOXZZq12Aygm6MQNv646ER8qepdVqw1w+\nTCo0MCIyxR2oxyaMLESwodj7nTkRiHUvcrRBBql/C+6nXE/Rd8VEd/pDtyDQBeZG\nnq4ojzx+sQkR84TGF97W8rLMNn9FFmgjanBw50RY9e4HOCWF+KWJbndvAoGAWY/g\n1mz0iM9GJ9mlGHOxlhvMC/fH9vVXEYEu9k0kZXGFWuOTetOA0pvyIDVyZCmRJ3Jx\npgrcSc3Fa8g7WFVJJxD8fxRfzgkAhNLQXiYHnqrjsl8+ng5YNFCbOJmfSfEZChXU\n9yc366hKKrPgkP+2+X7A+nyvKSj8GsjzKBl9k0UCgYEA0npq9vF4h8Hho8vzuihv\nYn/nxzTyKxECslIB9Wra59+PwchrVqwtQRxgxVZ+A7r1SvIPMSTCUZoVHr28FhEf\n8UsQwPNAi2JksMTO6TFmNSYKmTs7iEVeKqHbTTG18hfxltXSjmnfEmXFNpzj+Xo2\nr8SVPN5aYslScmqsFud7S08=\n-----END PRIVATE KEY-----\n",
+    "client_email": "astautomation@seismic-diorama-425606-m7.iam.gserviceaccount.com",
+    "client_id": "111307312164707888108",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/astautomation%40seismic-diorama-425606-m7.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
